@@ -1,0 +1,8 @@
+test1.py
+The test case is supposed to check if any cows were painted, no cows should be painted in this test case.
+
+test2.py
+In this testcase, all the cows are painted should be painted equally.
+
+test3.py
+This testcase is for the looping situation. All paintball trigger all paintballs.
